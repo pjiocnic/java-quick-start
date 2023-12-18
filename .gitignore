@@ -1,0 +1,8 @@
+*iml
+.idea/
+target/
+master_key.txt
+docs/connection-details.md
+connection-details.md
+target/*
+.settings/*
